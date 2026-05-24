@@ -53,15 +53,15 @@
 ## 🌎 Connect with Me
 
 <p>
-  <a href="https://github.com/SEUUSUARIO">
+  <a href="https://github.com/Alexandr4dev">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/alexandrah.melo">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="https://instagram.com">
+  <a href="https://instagram.com/alexandrah.melo">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
