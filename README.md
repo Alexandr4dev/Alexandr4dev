@@ -1,28 +1,31 @@
-# 👋 Hello, I'm Alexandra Melo
+# 👋 Hello, I'm Alexandra Melo 🦷
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="dentistry" width="320" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 🦷 Dentistry Student  
-💻 Java & Python Developer  
 ✨ HOF Enthusiast  
-🔬 Passionate about oral health, aesthetics and technology
+🔬 Passionate about oral health, aesthetics and scientific research  
+💻 Learning Java & Python to connect healthcare and technology
 
 ---
 
-## 🚀 About Me
+## 🦷 About Me
 
-- 🦷 Studying Dentistry and Harmonization Orofacial (HOF)
-- 💻 Learning Java, Python and backend development
-- 📚 Interested in health, innovation and technology
-- 🎯 Focused on continuous learning and personal growth
-- 🌎 Exploring the connection between healthcare and tech
+- 🦷 Focused on Dentistry and Harmonization Orofacial (HOF)
+- 📚 Studying dental aesthetics, caries and enamel demineralization
+- 🔬 Interested in scientific and academic projects
+- 💡 Exploring innovation and technology in healthcare
+- 🌎 Passionate about improving smiles and confidence
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Main Tools & Interests
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,mysql" />
+  <img src="https://img.shields.io/badge/Dentistry-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HOF-Facial%20Aesthetics-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oral%20Health-Research-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dental%20Care-Prevention-important?style=for-the-badge" />
 </p>
 
 ---
@@ -31,10 +34,10 @@
 
 - 🦷 Dental Aesthetics
 - ✨ HOF & Facial Harmony
-- 💻 Software Development
-- 📊 Data & Technology
-- 🔬 Scientific Research
-- 🌐 Health Innovation
+- 🔬 Caries & Demineralization Research
+- 📖 Academic Dentistry Projects
+- 💻 Technology in Healthcare
+- 🌐 Innovation in Oral Health
 
 ---
 
@@ -53,11 +56,11 @@
   <a href="https://github.com/SEUUSUARIO">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  
+
   <a href="https://linkedin.com">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
+
   <a href="https://instagram.com">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
@@ -65,4 +68,4 @@
 
 ---
 
-✨ *Technology and dentistry transforming smiles and lives.*
+✨ *Dentistry, aesthetics and innovation transforming lives.*
