@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Alexandra Melo 🦷
 
-<img align="right" alt="dentistry" width="320" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="dentistry" width="320" src="[https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif](https://i.pinimg.com/originals/4c/76/05/4c7605be4392e71182c7008da6063e52.gif)">
 
 🦷 Dentistry Student  
 ✨ HOF Enthusiast  
@@ -41,14 +41,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact" />
-</p>
-
----
 
 ## 🌎 Connect with Me
 
